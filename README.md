@@ -1,2 +1,2 @@
-# airline-analysis
+# Airline Analysis Project
 Airline Analysis
